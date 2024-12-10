@@ -29,12 +29,12 @@ This repository contains my solutions to the [CSES Problem Set](https://cses.fi/
 
 #### Solved Problems
 
-| Category | Problems Solved | Total Problems |
-|----------|-----------------|----------------|
-| Introductory Problems | 1/19 | |
-| Dynamic Programming | 2/19 | |
-| Graphs | 0/36 | |
-| Trees | 0/16 | |
+| Category | Problems Solved | 
+|----------|-----------------|
+| Introductory Problems | 1/19 | 
+| Dynamic Programming | 2/19 | 
+| Graphs | 0/36 | 
+| Trees | 0/16 | 
 
 ## Solution Details
 
